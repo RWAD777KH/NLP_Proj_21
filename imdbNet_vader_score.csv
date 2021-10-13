@@ -1,0 +1,382 @@
+,Netflix_Movie_ID,Movie Name,Vadar Score
+0,3463,10 Things I Hate About You 1999,0.818
+1,9528,12 Angry Men 1957,0.501
+2,14482,12 Monkeys 1995,0.552
+3,16535,1941 1979,0.402
+4,11165,2001_ A Space Odyssey 1968,0.595
+5,1962,50 First Dates 2004,0.84
+6,5035,54 1998,0.574
+7,12471,8 Mile 2002,0.637
+8,1180,A Beautiful Mind 2001,0.783
+9,14254,A Bridge Too Far 1977,0.173
+10,10451,A Clockwork Orange 1971,0.126
+11,7875,A Night at the Roxbury 1998,0.655
+12,4402,A Nightmare on Elm Street 1984,0.019
+13,6235,A Walk to Remember 2002,0.819
+14,10662,Akira 1988,0.55
+15,10894,Ali 2001,0.598
+16,16469,Alien vs. Predator 2004,0.3
+17,3224,All Quiet on the Western Front 1930,-0.159
+18,15758,Amadeus 1984,0.762
+19,571,American Beauty 1999,0.682
+20,11152,American History X 1998,0.095
+21,11337,American Pie 1999,0.697
+22,4109,American Psycho 2000,0.224
+23,15385,Amistad 1997,0.483
+24,7635,Anchorman_ The Legend of Ron Burgundy 2004,0.703
+25,8159,Annie Hall 1977,0.818
+26,9788,Antz 1998,0.712
+27,14507,Any Given Sunday 1999,0.6
+28,6099,Apocalypse Now 1979,0.056
+29,7745,Apollo 13 1995,0.735
+30,6972,Armageddon 1998,0.408
+31,9728,As Good as It Gets 1997,0.771
+32,10820,Back to the Future 1985,0.843
+33,4956,Back to the Future Part II 1989,0.783
+34,851,Back to the Future Part III 1990,0.716
+35,14335,Barry Lyndon 1975,0.752
+36,2173,BASEketball 1998,0.77
+37,3864,Batman Begins 2005,0.662
+38,9265,Batman Returns 1992,0.501
+39,4249,Battleship Potemkin 1925,0.426
+40,14780,Beetlejuice 1988,0.638
+41,7517,Before Sunrise 1995,0.873
+42,10986,Before Sunset 2004,0.798
+43,2122,Being John Malkovich 1999,0.666
+44,12161,Big Fish 2003,0.803
+45,13412,Billy Elliot 2000,0.76
+46,6720,Black Hawk Down 2001,-0.043
+47,7511,Blade 1998,0.589
+48,14869,Blade Runner 1982,0.618
+49,17549,Bloody Sunday 2002,-0.081
+50,16792,Blow 2001,0.53
+51,15843,Blue Crush 2002,0.735
+52,15540,Born on the Fourth of July 1989,0.184
+53,2782,Braveheart 1995,0.582
+54,12497,Bring It On 2000,0.781
+55,3860,Bruce Almighty 2003,0.779
+56,13534,Bull Durham 1988,0.81
+57,14280,Butch Cassidy and the Sundance Kid 1969,0.791
+58,9051,Caddyshack 1980,0.734
+59,12890,Carrie 1976,0.132
+60,13923,Cast Away 2000,0.589
+61,10970,Castle in the Sky 1986,0.802
+62,1844,Casualties of War 1989,-0.349
+63,8644,Catch Me If You Can 2002,0.801
+64,4736,Chariots of Fire 1981,0.883
+65,16912,Chicken Run 2000,0.838
+66,13082,Chinatown 1974,0.619
+67,8832,Citizen Kane 1941,0.741
+68,6450,City of God 2002,0.334
+69,16640,Closer 2004,0.552
+70,1073,Coach Carter 2005,0.858
+71,4355,Coffee and Cigarettes 2003,0.639
+72,10550,Cold Mountain 2003,0.469
+73,6134,Collateral 2004,0.529
+74,3568,Come and See 1985,-0.476
+75,16242,Con Air 1997,0.404
+76,5154,Constantine 2005,0.465
+77,11701,Contact 1997,0.689
+78,13102,Coyote Ugly 2000,0.582
+79,4244,Cross of Iron 1977,-0.079
+80,8837,Cube 1997,0.215
+81,2780,Dark City 1998,0.654
+82,4384,Dawn of the Dead 2004,0.273
+83,16901,Days of Thunder 1990,0.673
+84,14928,Dead Poets Society 1989,0.665
+85,7493,Detroit Rock City 1999,0.835
+86,9960,Die Hard 1988,0.408
+87,7617,Dirty Dancing 1987,0.761
+88,3153,Doctor Zhivago 1965,0.749
+89,13007,Dog Day Afternoon 1975,0.675
+90,6221,Donnie Brasco 1997,0.697
+91,16969,Donnie Darko 2001,0.552
+92,14671,Downfall 2004,0.082
+93,15158,Driven 2001,0.379
+94,9690,Duck Soup 1933,0.652
+95,311,Ed Wood 1994,0.857
+96,6329,Edward Scissorhands 1990,0.783
+97,2874,Elf 2003,0.762
+98,3730,Elizabeth 1998,0.675
+99,7643,Empire of the Sun 1987,0.489
+100,8379,Enemy at the Gates 2001,0.211
+101,4656,Erin Brockovich 2000,0.746
+102,1865,Eternal Sunshine of the Spotless Mind 2004,0.762
+103,12940,Event Horizon 1997,0.006
+104,8016,Eyes Wide Shut 1999,0.451
+105,5926,Fight Club 1999,0.408
+106,10429,Final Destination 2 2003,0.141
+107,11663,Final Destination 2000,-0.04
+108,2913,Finding Neverland 2004,0.858
+109,9950,Flashdance 1983,0.719
+110,14827,For Love of the Game 1999,0.834
+111,11283,Forrest Gump 1994,0.752
+112,3966,Friday Night Lights 2004,0.676
+113,9298,From Dusk Till Dawn 1996,0.417
+114,2734,From Hell 2001,0.154
+115,14112,From Here to Eternity 1953,0.596
+116,17339,Full Metal Jacket 1987,-0.037
+117,9235,G.I. Jane 1997,0.306
+118,4633,Gandhi 1982,0.705
+119,10730,Gangs of New York 2002,0.27
+120,3917,Garden State 2004,0.762
+121,17724,Gettysburg 1993,0.214
+122,3106,Ghost 1990,0.673
+123,17560,Ghostbusters 1984,0.833
+124,13728,Gladiator 2000,0.584
+125,4847,Glory 1989,0.487
+126,8904,Good Will Hunting 1997,0.762
+127,14210,Grave of the Fireflies 1988,-0.058
+128,15062,Grease 1978,0.799
+129,6482,Gremlins 1984,0.533
+130,10225,Groundhog Day 1993,0.817
+131,17004,Halloween 1978,-0.015
+132,8764,Happy Gilmore 1996,0.862
+133,6735,Hardball 2001,0.657
+134,11443,Harry Potter and the Chamber of Secrets 2002,0.724
+135,12338,Harry Potter and the Prisoner of Azkaban 2004,0.677
+136,1329,He Got Game 1998,0.636
+137,9074,Heartbreak Ridge 1986,0.247
+138,12102,Hedwig and the Angry Inch 2001,0.747
+139,15919,Hellboy 2004,0.611
+140,940,Hercules 1997,0.654
+141,12690,Hero 2002,0.656
+142,312,High Fidelity 2000,0.665
+143,17324,Hitch 2005,0.88
+144,12546,Home Alone 1990,0.621
+145,2400,Home Alone 2_ Lost in New York 1992,0.506
+146,3347,Honey 2003,0.778
+147,8531,Hoosiers 1986,0.869
+148,14538,How to Lose a Guy in 10 Days 2003,0.795
+149,8743,Ice Age 2002,0.791
+150,2112,Identity 2003,0.323
+151,7600,In the Name of the Father 1993,0.234
+152,15124,Independence Day 1996,0.408
+153,16954,Indiana Jones and the Last Crusade 1989,0.787
+154,6555,Insomnia 2002,0.386
+155,798,Jaws 1975,0.487
+156,13763,Jerry Maguire 1996,0.798
+157,10951,Judgment at Nuremberg 1961,0.388
+158,14312,Jurassic Park 1993,0.776
+159,14759,K-19_ The Widowmaker 2002,0.326
+160,16947,Kagemusha 1980,0.481
+161,2104,Kickboxer 1989,0.466
+162,14454,Kill Bill_ Vol. 1 2003,0.188
+163,457,Kill Bill_ Vol. 2 2004,0.293
+164,16997,Kingpin 1996,0.672
+165,9818,L.A. Confidential 1997,0.751
+166,6445,Lawrence of Arabia 1962,0.767
+167,6615,Legends of the Fall 1994,0.614
+168,2095,Liar Liar 1997,0.672
+169,13593,Life Is Beautiful 1997,0.666
+170,12237,Lifeboat 1944,0.562
+171,6850,Lords of Dogtown 2005,0.821
+172,12232,Lost in Translation 2003,0.615
+173,4472,Love Actually 2003,0.784
+174,16903,Love and Death 1975,0.78
+175,705,Major League 1989,0.842
+176,17319,Malcolm X 1992,0.552
+177,1220,Man on Fire 2004,0.368
+178,16465,Meet Joe Black 1998,0.581
+179,11077,Meet the Fockers 2004,0.661
+180,17088,Meet the Parents 2000,0.685
+181,5862,Memento 2000,0.476
+182,12918,Men in Black 1997,0.773
+183,3427,Men in Black II 2002,0.532
+184,11812,Million Dollar Baby 2004,0.653
+185,8387,Minority Report 2002,0.495
+186,15116,Miracle 2004,0.844
+187,5054,Mission_ Impossible 1996,0.609
+188,12047,Mission_ Impossible II 2000,0.485
+189,442,Mississippi Burning 1988,0.235
+190,14999,Monster 2003,0.12
+191,14358,Monty Python and the Holy Grail 1975,0.702
+192,14042,Mulholland Drive 2001,0.45
+193,3593,My Neighbor Totoro 1988,0.838
+194,12582,Mystic River 2003,0.199
+195,17169,National Treasure 2004,0.745
+196,241,North by Northwest 1959,0.785
+197,15058,Notting Hill 1999,0.852
+198,10582,Oldboy 2003,0.275
+199,14862,Once Upon a Time in America 1984,0.506
+200,16444,Over the Top 1987,0.636
+201,9042,Paths of Glory 1957,0.077
+202,6117,Patton 1970,0.512
+203,9340,Pearl Harbor 2001,0.328
+204,1905,Pirates of the Caribbean_ The Curse of the Black Pearl 2003,0.829
+205,14209,Pitch Black 2000,0.475
+206,9426,Platoon 1986,-0.161
+207,3414,Pocahontas 1995,0.71
+208,6287,Pretty Woman 1990,0.805
+209,473,Princess Mononoke 1997,0.633
+210,10832,Psycho 1960,0.355
+211,11064,Pulp Fiction 1994,0.629
+212,11388,Quiz Show 1994,0.71
+213,11040,Radio 2003,0.749
+214,13856,Raging Bull 1980,0.528
+215,10042,Raiders of the Lost Ark 1981,0.794
+216,10729,Ran 1985,0.264
+217,886,Ray 2004,0.794
+218,6739,Rear Window 1954,0.642
+219,15844,Remember the Titans 2000,0.761
+220,17508,Requiem for a Dream 2000,0.398
+221,175,Reservoir Dogs 1992,0.444
+222,15853,Resident Evil 2002,0.233
+223,15110,Resident Evil_ Apocalypse 2004,0.081
+224,15474,Rock Star 2001,0.76
+225,5571,Rocky 1976,0.865
+226,9614,Rocky II 1979,0.746
+227,9565,Rocky III 1982,0.634
+228,13501,Rocky IV 1985,0.393
+229,1558,Rocky V 1990,0.187
+230,6556,Romeo + Juliet 1996,0.587
+231,2128,Rudy 1993,0.831
+232,11315,Rules of Engagement 2000,0.119
+233,3773,Saboteur 1942,0.567
+234,5946,Saturday Night Fever 1977,0.614
+235,8989,Save the Last Dance 2001,0.7
+236,17157,Saving Private Ryan 1998,0.047
+237,3713,Saw 2004,0.02
+238,13707,Scarface 1983,0.482
+239,3161,Scary Movie 2 2001,0.23
+240,2395,Scream 1996,0.014
+241,12224,Scream 2 1997,-0.071
+242,5085,Seabiscuit 2003,0.772
+243,5704,Seven Years in Tibet 1997,0.539
+244,17764,Shakespeare in Love 1998,0.892
+245,5345,Shark Tale 2004,0.612
+246,4829,Shaun of the Dead 2004,0.628
+247,16150,Shine 1996,0.67
+248,3938,Shrek 2 2004,0.808
+249,4043,Signs 2002,0.332
+250,5991,Sin City 2005,0.302
+251,4262,Sleepy Hollow 1999,0.613
+252,5924,Snatch 2000,0.726
+253,17526,Some Like It Hot 1959,0.87
+254,15945,Space Jam 1996,0.704
+255,16306,Spartacus 1960,0.729
+256,607,Speed 1994,0.668
+257,12155,Spider-Man 2 2004,0.704
+258,14410,Spider-Man 2002,0.737
+259,10433,Stalag 17 1953,0.557
+260,7501,Stalingrad 1993,-0.469
+261,9828,Stripes 1981,0.705
+262,16869,Sweet and Lowdown 1999,0.804
+263,1604,Tae Guk Gi_ The Brotherhood of War 2004,-0.104
+264,9702,Tarzan 1999,0.791
+265,10774,Taxi Driver 1976,0.267
+266,6931,Terminator 3_ Rise of the Machines 2003,0.549
+267,6661,That Thing You Do! 1996,0.899
+268,9741,The 13th Warrior 1999,0.509
+269,1918,The Alamo 2004,0.289
+270,12966,The Aviator 2004,0.715
+271,17100,The Beach 2000,0.597
+272,14155,The Best Years of Our Lives 1946,0.697
+273,3716,The Big Blue 1988,0.797
+274,15425,The Big Lebowski 1998,0.726
+275,14039,The Birds 1963,0.219
+276,8821,The Birth of a Nation 1915,0.0
+277,14755,The Blair Witch Project 1999,-0.231
+278,4883,The Bodyguard 1992,0.705
+279,6037,The Bourne Identity 2002,0.61
+280,2372,The Bourne Supremacy 2004,0.456
+281,6797,The Breakfast Club 1985,0.584
+282,7586,The Bridge on the River Kwai 1957,0.418
+283,1969,The Caine Mutiny 1954,0.461
+284,4761,The Cannonball Run 1981,0.731
+285,167,The Chorus 2004,0.802
+286,2139,The Color of Money 1986,0.812
+287,2955,The Commitments 1991,0.853
+288,15205,The Day After Tomorrow 2004,0.348
+289,199,The Deer Hunter 1978,0.112
+290,14978,The Dirty Dozen 1967,0.003
+291,7208,The Doors 1991,0.596
+292,9381,The Elephant Man 1980,0.559
+293,3148,The English Patient 1996,0.616
+294,16793,The Exorcist 1973,0.01
+295,12191,The Fan 1996,0.4
+296,6844,The Fast and the Furious 2001,0.479
+297,9882,The Fifth Element 1997,0.657
+298,143,The Game 1997,0.531
+299,10275,The Girl Next Door 2004,0.808
+300,12293,The Godfather 1972,0.659
+301,15922,The Graduate 1967,0.77
+302,9625,The Grapes of Wrath 1940,0.514
+303,8666,The Great Dictator 1940,0.695
+304,11573,The Great Escape 1963,0.763
+305,16377,The Green Mile 1999,0.49
+306,2192,The Hurricane 1999,0.471
+307,2848,The Hustler 1961,0.802
+308,10947,The Incredibles 2004,0.829
+309,15381,The Insider 1999,0.631
+310,4432,The Italian Job 2003,0.642
+311,15662,The Killing Fields 1984,-0.035
+312,10734,The Last Emperor 1987,0.423
+313,3624,The Last Samurai 2003,0.591
+314,10241,The Legend of Bagger Vance 2000,0.732
+315,17714,The Little Mermaid 1989,0.835
+316,3269,The Longest Day 1962,0.45
+317,5239,The Longest Yard 2005,0.628
+318,4698,The Lost World_ Jurassic Park 1997,0.389
+319,5522,The Machinist 2004,0.352
+320,14825,The Man Who Would Be King 1975,0.8
+321,14691,The Matrix 1999,0.694
+322,985,The Mummy 1999,0.636
+323,5939,The Mummy Returns 2001,0.584
+324,9378,The Natural 1984,0.826
+325,10828,The Nightmare Before Christmas 1993,0.816
+326,14103,The Notebook 2004,0.862
+327,3905,The Others 2001,0.472
+328,15016,The Passion of Joan of Arc 1928,0.627
+329,14313,The Patriot 2000,0.126
+330,2743,The Pianist 2002,0.379
+331,1367,The Piano 1993,0.587
+332,7193,The Princess Bride 1987,0.789
+333,15952,The Replacements 2000,0.753
+334,17479,The Ring 2002,0.029
+335,12317,The Rock 1996,0.574
+336,8954,The Rookie 2002,0.839
+337,12034,The Shining 1980,0.116
+338,2862,The Silence of the Lambs 1991,0.516
+339,4306,The Sixth Sense 1999,0.534
+340,12074,The Sound of Music 1965,0.811
+341,17355,The Terminal 2004,0.689
+342,6196,The Terminator 1984,0.602
+343,10392,The Thin Red Line 1998,0.042
+344,15366,The Thing 1982,0.356
+345,13074,The Transporter 2002,0.524
+346,14618,The Truman Show 1998,0.725
+347,7219,The Untouchables 1987,0.594
+348,6974,The Usual Suspects 1995,0.585
+349,3333,The Village 2004,0.339
+350,14660,The Waterboy 1998,0.579
+351,16438,The Wedding Singer 1998,0.858
+352,7406,Thirteen Days 2000,0.377
+353,2465,This Is Spinal Tap 1984,0.736
+354,6418,Tigerland 2000,0.328
+355,16879,Titanic 1997,0.633
+356,6428,To Kill a Mockingbird 1962,0.575
+357,16872,Tombstone 1993,0.74
+358,2771,Top Secret! 1984,0.783
+359,14109,Total Recall 1990,0.626
+360,13673,Toy Story 1995,0.862
+361,14571,Toy Story 2 1999,0.884
+362,1102,Training Day 2001,0.498
+363,13081,Troy 2004,0.468
+364,4805,True Romance 1993,0.793
+365,10785,U-571 2000,0.272
+366,8376,Unbreakable 2000,0.572
+367,13522,Underground 1995,0.419
+368,5793,Underworld 2003,0.494
+369,15887,Van Helsing 2004,0.438
+370,17622,Vanilla Sky 2001,0.595
+371,4247,Velvet Goldmine 1998,0.67
+372,16223,Vertigo 1958,0.621
+373,12569,Victory 1981,0.551
+374,10607,We Were Soldiers 2002,-0.153
+375,3423,Where Eagles Dare 1968,0.6
+376,17008,Wimbledon 2004,0.856
+377,10625,Windtalkers 2002,-0.024
+378,12785,X-Men 2000,0.779
+379,191,X2_ X-Men United 2003,0.732
+380,17631,Zulu 1964,0.447
